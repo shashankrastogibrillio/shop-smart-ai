@@ -1,0 +1,151 @@
+id,title,description,brand,category,price,color,size,material,gender
+product_1,Classic Blue Denim Jacket,"Crafted with durable denim, this jacket is a must-have for casual outings. Features a buttoned front and dual chest pockets.",Levi's,Jackets,79.99,Blue,M,Denim,Women
+product_2,Cotton Crew Neck T-Shirt,"Soft-touch cotton with a breathable finish. Perfect for layering or wearing solo during summer.",H&M,T-Shirts,19.99,White,L,Cotton,Men
+product_3,Linen Striped Nightdress,"Made from airy linen, this nightdress combines comfort with elegance. Finished with fine vertical stripes.",Zara,Nightdress,34.99,Beige,S,Linen,Women
+product_4,Slim Fit Chinos,"Tailored chinos ideal for formal or casual wear. Slight stretch for enhanced comfort.",Uniqlo,Trousers,45.00,Navy,XL,Cotton,Men
+product_5,V-Neck Floral Dress,"A sleeveless, flowy dress adorned with delicate floral prints. Lightweight and breathable.",Forever 21,Casual,49.95,Red,M,Rayon,Women
+product_6,Casual Cotton Polo,"Classic polo made from 100% combed cotton with ribbed collar and two-button placket.",Tommy Hilfiger,Polos,29.99,Green,L,Cotton,Men
+product_7,Luxe Silk Nightgown,"Experience ultimate comfort with this full-length silk nightgown, finished with lace trim.",Victoria's Secret,Gowns,89.90,Champagne,M,Silk,Women
+product_8,Stretch Fit T-Shirt,"Everyday t-shirt with added elastane for flexibility. Crew neck design and minimal branding.",Roadster,T-Shirts,17.50,Grey,XL,Cotton Blend,Men
+product_9,Boho Ruffle Dress,"Free-spirited maxi dress with ruffle tiers and tie-back waist. Great for beach days or brunch.",Urbanic,Maxi,59.00,Coral,S,Viscose,Women
+product_10,Maternity Support Leggings,"Stretch leggings offering extra support around belly. Designed to grow with you.",Mothercare,Bottomwear,35.00,Black,L,Cotton Lycra,Women
+product_11,Denim Utility Shirt,"Structured shirt with utility pockets and button cuffs. Made from faded indigo denim.",Jack & Jones,Shirts,42.99,Dark Blue,M,Denim,Men
+product_12,Cotton Embroidered Kurti,"Elegant kurti with thread embroidery around neckline. Pairs well with leggings or palazzos.",W for Woman,Kurtis,32.00,Peach,L,Cotton,Women
+product_13,Mesh Running Sneakers,"Lightweight sneakers with breathable mesh upper and cushioned sole for joggers.",Nike,Sneakers,89.00,Grey,10,Mesh,Men
+product_14,Chunky Platform Sandals,"Trendy sandals with platform base and padded insole. Secure buckle closure.",Charles & Keith,Sandals,65.00,Tan,38,PU,Women
+product_15,Luxury Leather Loafers,"Handcrafted genuine leather loafers ideal for business or smart-casual events.",Clarks,Loafers,120.00,Brown,9,Leather,Men
+product_16,Flared Rayon Dress,"Ankle-length dress with ethnic prints and flared hem. Side pockets included.",Biba,Ethnic,55.00,Blue,L,Rayon,Women
+product_17,Slim Fit Dress Shirt,"Formal shirt with point collar and tailored cuffs. Ideal for business meetings.",Arrow,Shirts,49.00,White,40,Cotton,Men
+product_18,Printed Sleep Shorts,"Lounge comfortably in these breathable cotton shorts with quirky prints.",Clovia,Shorts,18.00,Pink,M,Cotton,Women
+product_19,Woven Strappy Heels,"Open-toe heels with handwoven straps and block heel. Great for festive occasions.",Steve Madden,Heels,99.00,Gold,39,Leather,Women
+product_20,Casual Drawstring Shorts,"Mid-rise shorts with drawstring waist and zippered pockets. Weekend essential.",HRX,Shorts,28.50,Khaki,L,Cotton,Men
+product_21,Chiffon Ruffle Blouse,"Lightweight blouse with sheer ruffle sleeves. Elegant choice for dinners.",Mango,Blouses,39.99,White,S,Chiffon,Women
+product_22,Running Compression Tights,"Ergonomic tights with moisture-wicking and muscle support zones.",Adidas,Tights,55.00,Black,L,Polyester,Men
+product_23,Casual Cotton Shorts,"Soft brushed cotton shorts with adjustable waistband and contrast stitching.",Zudio,Shorts,21.99,Grey,M,Cotton,Women
+product_24,Sunglasses Aviator Style,"UV-protective lenses with lightweight metal frame. Classic aviator fit.",Ray-Ban,Sunglasses,125.00,Black,One Size,Metal,Men
+product_25,Faux Leather Analog Watch,"Slim analog watch with faux leather strap and minimalist dial.",Fossil,Watches,85.00,Brown,One Size,Faux Leather,Women
+product_26,Digital Sport Watch,"Rugged digital watch with water resistance and stopwatch functionality.",Timex,Watches,72.00,Blue,One Size,Plastic,Men
+product_27,Premium Athleisure Sneakers,"Low-profile sneakers perfect for gym and errands. Padded heel for extra comfort.",Puma,Sneakers,88.00,White,37,Mesh,Women
+product_28,Lux Lounge Pants,"Ultra-soft lounge pants made for long Netflix sessions. Drawstring waistband.",Zivame,Pants,29.50,Burgundy,M,Modal,Women
+product_29,Colorblock Hoodie,"Trendy hoodie with dual-color scheme and kangaroo pockets. Streetwear favorite.",Superdry,Sweatshirts,59.99,Black-Red,L,Cotton Fleece,Men
+product_30,Printed Maxi Dress,"Full-length sleeveless dress with paisley prints and waist tie.",FabAlley,Maxi,69.00,Navy,M,Rayon,Women
+product_31,Lace Trim Sleep Tee,"Short-sleeved sleep tee with soft lace trims. Great for cozy evenings.",Marks & Spencer,Tops,22.00,Purple,L,Cotton,Women
+product_32,Knitted Beanie Cap,"Chunky rib-knit cap perfect for winter days. Folded hem for fit.",H&M,Accessories,14.99,Grey,One Size,Acrylic,Men
+product_33,Maternity Wrap Dress,"Chic dress with tie-up waist and stretch fabric for expecting moms.",MomToBe,Dresses,48.00,Rust,M,Viscose,Women
+product_34,Running Shorts,"Featherlight running shorts with inner lining and zip pocket.",Nike,Shorts,32.00,Navy,M,Polyester,Men
+product_35,Feminine Kurta Set,"Three-piece ethnic set with printed kurta, palazzos, and dupatta.",Soch,Ethnic,75.00,Yellow,L,Cotton Silk,Women
+product_36,Slim Fit Trackpants,"Jogger-style pants with ankle cuffs and zippered pockets.",HRX,Trackpants,37.00,Charcoal,L,Cotton Blend,Men
+product_37,Printed Espadrilles,"Canvas slip-ons with rope-textured midsole and ethnic prints.",H&M,Flats,42.00,Multicolor,38,Canvas,Women
+product_38,Casual Woven Belt,"Woven stretch belt with leather ends and metal buckle.",Allen Solly,Accessories,25.00,Beige,One Size,Fabric,Men
+product_39,Wireless Smartwatch,"Fitness and notification-enabled watch with silicone strap.",Noise,Watches,79.99,Black,One Size,Silicone,Women
+product_40,Sports Tank Top,"Quick-dry tank top for high-performance workouts.",Reebok,Tank Tops,24.00,Aqua,S,Polyester,Women
+product_41,Merino Wool Pullover,"Premium wool pullover with ribbed hem and cuffs.",Van Heusen,Sweaters,69.00,Maroon,M,Wool,Men
+product_42,Formal Monk Strap Shoes,"Dual buckle leather shoes for boardroom presence.",Red Tape,Formal,110.00,Black,8,Leather,Men
+product_43,Ethnic Printed Kurti,"Comfortable kurti with kalamkari-inspired prints and mandarin collar.",Global Desi,Kurtis,39.00,Indigo,M,Cotton,Women
+product_44,Summer Maternity Shorts,"Mid-thigh maternity shorts with belly band and relaxed fit.",H&M Mama,Bottomwear,27.00,Olive,M,Cotton Lycra,Women
+product_45,Full Zip Hoodie,"Warm fleece hoodie with high neck and ribbed cuffs. Ideal for winters.",Gap,Sweatshirts,54.00,Forest Green,L,Cotton Fleece,Men
+product_46,Lace-Up Canvas Sneakers,"Minimalist canvas sneakers with durable outsole.",Superdry,Sneakers,59.99,White,9,Canvas,Men
+product_47,Printed Maxi Skirt,"A-line maxi skirt with handblock floral prints and drawstring waist.",H&M,Skirts,49.99,Teal,L,Cotton,Women
+product_48,Classic Fit Polo Shirt,"Breathable pique polo with signature logo embroidery on chest.",U.S. Polo Assn.,Polos,32.00,Sky Blue,M,Cotton,Men
+product_49,Plush Faux Fur Slippers,"Warm slip-on slippers with memory foam and faux fur lining.",Crocs,Slippers,36.00,Pink,39,Faux Fur,Women
+product_50,Textured Analog Watch,"Elegant analog watch with textured dial and steel mesh band.",Titan,Watches,98.00,Silver,One Size,Stainless Steel,Men
+product_51,Striped Midi Dress,"A breezy cotton midi dress with vertical stripes and tie-up waist, ideal for warm days.",H&M,Casual,45.00,Blue-White,M,Cotton,Women
+product_52,Vintage Denim Shorts,"High-rise, distressed denim shorts with raw hem for an edgy summer look.",Levi's,Shorts,39.99,Light Blue,S,Denim,Women
+product_53,Tech-Fit Training Tee,"Performance training t-shirt with sweat-wicking fabric and compression fit.",Adidas,T-Shirts,29.99,Black,L,Polyester,Men
+product_54,Velvet Embellished Kurta,"Luxurious velvet kurta with sequins and zari detailing. A festive showstopper.",Biba,Ethnic,89.00,Emerald Green,L,Velvet,Women
+product_55,Lightweight Bomber Jacket,"Windproof bomber jacket with zip closure, ribbed cuffs and a sporty silhouette.",Zara,Jackets,74.00,Olive Green,XL,Polyester,Men
+product_56,Knitted Lounge Set,"Two-piece co-ord set in soft knit—includes oversized tee and elastic-waist pants.",Zivame,Sets,59.50,Grey,M,Cotton Blend,Women
+product_57,Graphic Cotton T-Shirt,"Crew neck t-shirt with bold front graphic and relaxed fit.",Bewakoof,T-Shirts,18.00,Red,L,Cotton,Men
+product_58,High Ankle Sneakers,"Bold high-top sneakers with rubber sole and ankle cushioning.",Vans,Sneakers,78.99,Black,39,Canvas,Women
+product_59,Button Front Midi Skirt,"Button-down cotton midi skirt with side pockets and slit back.",AND,Skirts,44.00,Navy,M,Cotton,Women
+product_60,Mesh Running Shoes,"Lightweight running shoes with breathable mesh and arch support.",Reebok,Sneakers,82.00,Blue,10,Mesh,Men
+product_61,Sleeveless Lounge Dress,"Relaxed fit lounge dress in modal jersey with scoop neck and dropped armholes.",Clovia,Gowns,32.50,Lavender,M,Modal,Women
+product_62,Printed Short Kurta,"Short-length kurta with geometric print, perfect for casual Indo-western looks.",FabIndia,Kurtas,36.00,Maroon,M,Cotton,Men
+product_63,Wrap Maxi Dress,"Wrap-around maxi with plunging neckline and floral print for evening outings.",Forever New,Maxi,65.00,Mustard,L,Viscose,Women
+product_64,Tech Stretch Shorts,"Quick-dry training shorts with zipped pockets and reflective details.",Nike,Shorts,33.00,Charcoal,L,Polyester,Men
+product_65,Bohemian Kimono Shrug,"Flowy kimono with paisley motifs and tasseled hem. Easy beach layering.",Urbanic,Shrugs,29.99,Multicolor,Free Size,Rayon,Women
+product_66,Text Print Sweatshirt,"Relaxed crewneck sweatshirt with text print and brushed fleece inside.",Jack & Jones,Sweatshirts,42.00,Grey,M,Cotton Fleece,Men
+product_67,Maternity Nursing Top,"Easy nursing access with side zippers and elastic bust. Stylish during and post-pregnancy.",H&M Mama,Tops,27.00,Blush Pink,L,Cotton Lycra,Women
+product_68,Classic Fit Trousers,"Flat-front formal trousers with crease line and hook closure. Workwear staple.",Van Heusen,Trousers,48.00,Black,34,Cotton Blend,Men
+product_69,Boho Flat Sandals,"Leather-strap boho sandals with embossed detailing and cushioned insole.",Aldo,Flats,54.00,Beige,38,Leather,Women
+product_70,Sleeveless Performance Tee,"Muscle tank with racerback cut and stretchable fabric. Built for training.",HRX,Tank Tops,24.00,Olive,L,Polyester,Men
+product_71,Cotton Midi Nightdress,"Relaxed nightdress with lace trim and pleated front, breathable and cozy.",Max,Nightdress,28.00,White,M,Cotton,Women
+product_72,Tailored Casual Blazer,"Unstructured blazer in a stretch-cotton blend with patch pockets.",Raymond,Blazers,110.00,Navy,M,Cotton Blend,Men
+product_73,Ethnic Print Skirt Set,"Skirt and crop top set with vibrant traditional block prints.",Global Desi,Ethnic,69.99,Red-Green,M,Cotton,Women
+product_74,Analog Bracelet Watch,"Minimalist analog watch with slim case and gold-tone bracelet.",Titan,Watches,92.00,Gold,One Size,Metal,Women
+product_75,Striped Espadrille Flats,"Canvas espadrilles with rope sole and colorful stripe print.",Mochi,Flats,41.00,Multicolor,37,Canvas,Women
+product_76,Pack of 3 Vests,"Essential cotton vests with ribbed neck and armholes. Comes in a value pack.",Jockey,Innerwear,23.00,White,L,Cotton,Men
+product_77,Embroidered Cape Kurta,"Cape-style kurta with golden thread embroidery and asymmetric hem.",W for Woman,Kurtis,58.00,Navy Blue,L,Chiffon,Women
+product_78,Premium Leather Boots,"High-ankle genuine leather boots with anti-skid sole and zip closure.",Woodland,Boots,139.99,Brown,9,Leather,Men
+product_79,Relaxed Joggers,"Mid-rise joggers with ribbed ankle cuffs and soft brushed lining.",Bewakoof,Joggers,33.00,Black,M,Cotton Fleece,Women
+product_80,Formal Oxford Shoes,"Shiny finish lace-up oxfords with stitched detailing and almond toe.",Hush Puppies,Formal,119.00,Black,8,Leather,Men
+product_81,Printed Crepe Kurti,"Crepe kurti with floral vines and button placket. Office ethnic wear pick.",Soch,Kurtis,37.50,Mint Green,M,Crepe,Women
+product_82,Stretch Fit Jeans,"Faded slim jeans with stretch denim and reinforced knees.",Jack & Jones,Jeans,64.00,Dark Blue,32,Denim,Men
+product_83,Cotton Kaftan Dress,"Loose-fit kaftan with contrast embroidery and drawstring waist.",FabAlley,Casual,52.00,Coral,M,Cotton,Women
+product_84,Running Headband Pack,"Moisture-absorbing headbands for intense runs or workouts. Pack of 2.",Nike,Accessories,18.00,Black-Red,Free Size,Elastic,Men
+product_85,Wrap Front Top,"Fitted top with wrap silhouette and pleated details at waist.",Forever 21,Blouses,34.00,Burgundy,S,Viscose,Women
+product_86,Thermal Base Layer Set,"Two-piece thermal base layer for winter layering. Soft brushed interior.",Jockey,Thermals,44.00,Grey,L,Cotton Blend,Men
+product_87,Soft Sole Maternity Flats,"Supportive flats for expecting mothers with padded sole and wide fit.",Mothercare,Footwear,46.00,Nude,38,PU,Women
+product_88,Logo Print Joggers,"Signature logo side tape and cuffed hem. Streetwear-inspired fit.",Puma,Joggers,49.00,Grey,M,Cotton Blend,Men
+product_89,Boho Tassel Earrings,"Statement earrings with multicolored tassels and beaded caps.",Accessorize,Accessories,25.00,Multi,One Size,Thread,Women
+product_90,Textured Henley Tee,"Long sleeve henley with waffle knit texture and three-button placket.",Roadster,T-Shirts,29.00,Brown,L,Cotton,Men
+product_91,Plunge Neck Maxi Dress,"Evening-ready dress with deep neckline and shimmer fabric.",Only,Maxi,76.00,Black,M,Polyester,Women
+product_92,Twill Utility Pants,"Multi-pocket twill pants with reinforced knees and tapered legs.",Zudio,Trousers,39.00,Olive,L,Cotton,Men
+product_93,Silk Blend Anarkali,"Festive anarkali suit with zari work and chiffon dupatta.",Biba,Ethnic,99.00,Purple,L,Silk Blend,Women
+product_94,Round Sunglasses,"Retro round sunglasses with tinted lenses and metal arms.",Ray-Ban,Sunglasses,110.00,Gold,One Size,Metal,Women
+product_95,Digital Outdoor Watch,"Multi-function digital watch with backlight, timer, and rugged design.",Casio,Watches,79.99,Grey,One Size,Plastic,Men
+product_96,Slim Chino Shorts,"Flat-front cotton shorts with belt loops and tailored cut.",Arrow,Shorts,31.00,Beige,M,Cotton,Men
+product_97,Crinkled Summer Top,"Lightweight crinkle fabric top with frilled sleeves and pin-tuck yoke.",Mango,Blouses,27.99,Peach,S,Cotton,Women
+product_98,Elastic Waist Lounge Shorts,"Lounge-friendly shorts with mid-thigh length and contrast piping.",Zivame,Shorts,19.00,Blue,M,Cotton,Women
+product_99,Anti-glare Pilot Sunglasses,"Polarized lenses with glare-reduction, classic pilot-style frame.",Fossil,Sunglasses,89.00,Brown,One Size,Metal,Men
+product_100,Lace Overlay Midi Dress,"Semi-sheer lace overlay on a satin slip dress, ideal for formal evenings.",Forever New,Maxi,92.00,Navy Blue,M,Lace & Satin,Women
+product_101,Cotton Poplin Shirt,"Classic button-up shirt in crisp cotton poplin, perfect for smart casual wear.",Zara,Shirts,49.00,White,M,Cotton,Men
+product_102,Ruffle Wrap Blouse,"Chiffon blouse with ruffled sleeves and a flattering wrap silhouette.",ONLY,Blouses,38.00,Rust,S,Chiffon,Women
+product_103,Colorblock Sports Jacket,"Full-zip training jacket with moisture control and contrast panels.",Adidas,Jackets,79.99,Navy-White,L,Polyester,Men
+product_104,Silk Blend Pajama Set,"Elegant sleepwear set with lace-trimmed silk blend fabric and soft elastic.",Zivame,Sets,64.00,Champagne,M,Silk Blend,Women
+product_105,Graphic Street T-Shirt,"Oversized fit t-shirt with street-style graphics and dropped shoulders.",H&M,T-Shirts,22.00,Beige,XL,Cotton,Men
+product_106,Floral Maxi Skirt,"High-waisted chiffon maxi skirt with floral prints and side zip.",AND,Skirts,43.00,Light Blue,M,Chiffon,Women
+product_107,Monk Strap Leather Shoes,"Sophisticated monk strap formal shoes with cushioned insole.",Hush Puppies,Formal,115.00,Dark Brown,9,Leather,Men
+product_108,Maternity Leggings,"Stretch maternity leggings with high-rise belly panel for full support.",Mothercare,Bottomwear,29.99,Charcoal Grey,L,Cotton Lycra,Women
+product_109,Patterned Knit Sweater,"Crew neck sweater with fair isle pattern and ribbed cuffs.",Uniqlo,Sweaters,55.00,Red-Grey,M,Acrylic Blend,Men
+product_110,Sleeveless Nightgown,"Soft rayon sleeveless gown with pleats and printed hem.",Max,Gowns,26.00,Pink,M,Rayon,Women
+product_111,Chino Joggers,"Hybrid chinos with jogger ankle cuffs and adjustable waistband.",Jack & Jones,Joggers,39.99,Khaki,L,Cotton Twill,Men
+product_112,Drape Cape Dress,"Elegant party dress with attached chiffon cape drape.",FabAlley,Party,76.00,Black,M,Polyester,Women
+product_113,Leather Slingback Flats,"Chic slingback flats with genuine leather strap and cushioned footbed.",Aldo,Flats,59.00,Tan,38,Leather,Women
+product_114,Relax Fit Henley Tee,"Long-sleeve henley t-shirt with wooden button detailing.",Roadster,T-Shirts,28.00,Olive,M,Cotton,Men
+product_115,Rayon Flared Kurti,"Festive rayon kurti with gold foil prints and flared hem.",Soch,Kurtis,42.00,Maroon,M,Rayon,Women
+product_116,Men’s Chrono Watch,"Bold chronograph wristwatch with leather strap and waterproof casing.",Fossil,Watches,129.00,Black,One Size,Leather,Men
+product_117,Slide Sandals,"Comfortable pool slides with arch support and quick-dry strap.",Puma,Slides,34.00,Grey,39,Rubber,Women
+product_118,Denim Maternity Tunic,"Mid-thigh maternity tunic with buttoned front and curved hem.",H&M Mama,Tops,39.00,Denim Blue,L,Denim,Women
+product_119,Air Mesh Running Shoes,"Ultra-light shoes with cushioned sole and air mesh fabric for ventilation.",Nike,Sneakers,98.00,Black,10,Mesh,Men
+product_120,Bodycon Midi Dress,"Stretch-fit ribbed bodycon dress with long sleeves and square neckline.",Forever New,Casual,59.99,Mauve,M,Cotton Blend,Women
+product_121,Cargo Pocket Shorts,"Military-style shorts with multiple flap pockets and button waistband.",U.S. Polo Assn.,Shorts,44.00,Olive Green,L,Cotton,Men
+product_122,Tiered Maxi Skirt,"Cotton maxi skirt with layered tiers and ethnic block print.",Global Desi,Skirts,49.00,Mustard,M,Cotton,Women
+product_123,Mens Classic Aviators,"UV-protected metal aviator sunglasses with spring hinges.",Ray-Ban,Sunglasses,119.00,Silver,One Size,Metal,Men
+product_124,Chunky Sneakers,"Chunky sole sneakers with oversized silhouette and mesh upper.",Fila,Sneakers,89.00,White,38,Synthetic,Women
+product_125,Pack of 3 Polo Tees,"Everyday cotton polo t-shirts with embroidered logo. Value combo.",Jockey,Polos,59.00,Assorted,M,Cotton,Men
+product_126,Cotton Pintuck Kurti,"Knee-length kurti with pintuck detail and notched neckline.",Biba,Kurtis,37.00,Teal Blue,M,Cotton,Women
+product_127,Linen Shirt Dress,"Belted shirt dress in lightweight linen with rolled-up sleeves.",Mango,Casual,66.00,Sand,M,Linen,Women
+product_128,Stretch Slim Trousers,"Slim-fit stretch trousers with hook & bar closure and back pockets.",Arrow,Trousers,49.00,Dark Grey,34,Cotton Blend,Men
+product_129,Embroidered Flats,"Ethnic slip-on flats with mirror embroidery and pompom accents.",Mochi,Flats,35.00,Coral,37,Faux Leather,Women
+product_130,Crewneck Lounge Tee,"Loungewear tee with wide neckline and rolled sleeves.",Zivame,Tops,22.00,Lilac,L,Cotton Modal,Women
+product_131,Active Fit Trackpants,"Slim athletic trackpants with ankle zips and side piping.",Reebok,Joggers,46.00,Navy Blue,M,Polyester,Men
+product_132,Tunic Maternity Dress,"Above-the-knee tunic dress with pleats and adjustable waist-tie.",Mothercare,Dresses,42.00,Olive Green,L,Cotton Blend,Women
+product_133,Linen Blend Kurta Set,"Straight cut kurta with dupatta and palazzos in pastel hues.",W for Woman,Ethnic,89.00,Peach,M,Linen Blend,Women
+product_134,Anti-slip Flip Flops,"Beach-ready flip flops with printed footbed and anti-slip grip.",Crocs,Flip Flops,29.00,Blue,9,Rubber,Men
+product_135,Plated Dangler Earrings,"Gold-plated dangler earrings with enamel accents and pearls.",Voylla,Accessories,26.00,Gold-White,One Size,Metal,Women
+product_136,Classic V-neck Tee,"Soft-washed cotton v-neck tee with subtle branding.",Levi’s,T-Shirts,26.00,Light Grey,L,Cotton,Men
+product_137,Front Slit Palazzo,"High-waist wide palazzos with front slit and elasticated back.",Global Desi,Palazzos,38.00,Maroon,M,Rayon,Women
+product_138,Analog Dial Watch,"Minimal watch with stainless steel strap and clean dial.",Daniel Klein,Watches,72.00,Rose Gold,One Size,Metal,Women
+product_139,Lux Fleece Hoodie,"Cozy pullover hoodie with kangaroo pocket and fleece lining.",H&M,Sweatshirts,58.00,Burgundy,M,Cotton Fleece,Men
+product_140,Kaftan Maternity Dress,"Floral printed maternity kaftan with tassel tie and relaxed fit.",Zivame,Dresses,41.00,Floral Blue,L,Viscose,Women
+product_141,Essential Thermal Set,"Thermal base layer set with snug fit and brushed texture.",Van Heusen,Thermals,49.00,Black,M,Cotton Blend,Men
+product_142,Panelled Anarkali Suit,"Heavily flared anarkali with embroidered panels and matching dupatta.",Soch,Ethnic,109.00,Navy Gold,L,Silk Blend,Women
+product_143,Relaxed Fit Jeans,"Washed effect jeans with relaxed straight fit and five pockets.",Levi’s,Jeans,69.00,Mid Blue,34,Denim,Men
+product_144,Lace Trim Sleep Shorts,"Soft cotton sleep shorts with lace detail and drawstring waist.",Max,Shorts,19.99,Rose Pink,M,Cotton,Women
+product_145,Drawstring Cargo Pants,"Utility cargo pants with side pockets and toggle ankle cuffs.",Roadster,Trousers,46.00,Olive Green,M,Cotton,Men
+product_146,Printed Shift Dress,"Short sleeve shift dress with polka dot print and keyhole neckline.",ONLY,Casual,49.00,Black-White,M,Viscose,Women
+product_147,Structured Wool Blazer,"Tailored wool-blend blazer with inner lining and double button closure.",Raymond,Blazers,145.00,Charcoal Grey,L,Wool Blend,Men
+product_148,Printed Wrap Nightdress,"Short wrap nightdress with floral print and inner tie belt.",Clovia,Gowns,34.00,Mint Green,L,Cotton Blend,Women
+product_149,Running Tank Top,"Racerback activewear tank with breathable side mesh and sweat-wicking tech.",HRX,Tank Tops,24.00,Teal Blue,M,Polyester,Men
+product_150,Studded Cat Eye Sunglasses,"Retro cat-eye frame with gold stud accents and gradient lenses.",Fossil,Sunglasses,98.00,Black-Gold,One Size,Plastic,Women

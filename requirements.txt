@@ -1,0 +1,29 @@
+# FastAPI server
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+
+# LangChain ecosystem
+langchain==0.3.24
+langchain-community==0.3.23
+langchain-core==0.3.56
+langchain-openai==0.3.14
+langchain-text-splitters==0.3.8
+
+# Pinecone v2 SDK (latest 2.x version)
+pinecone-client==2.2.4
+
+# OpenAI embeddings and Azure compatibility
+openai==1.68.2
+
+# Environment and utilities
+python-dotenv==1.0.1
+tqdm==4.66.2
+
+# Optional: Redis and memory components (comment out if not used)
+# redis==5.0.1
+# langchain-community[redis]==0.0.21
+
+# Optional: Other dependencies you might use
+requests==2.31.0
+
+pandas
