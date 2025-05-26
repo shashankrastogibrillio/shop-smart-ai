@@ -5,7 +5,7 @@
 4.	Update .env file with following properties -
 a.	Open AI key for embedding -
     •	AZURE_OPENAI_ENDPOINT= <br>
-    •	AZURE_OPENAI_DEPLOYMENT_NAME=text-embedding-3-small
+    •	AZURE_OPENAI_DEPLOYMENT_NAME=text-embedding-3-small\
     •	AZURE_OPENAI_API_VERSION=2024-12-01-preview
     •	OPENAI_API_TYPE=azure
 b.	Open AI key for Chat -
