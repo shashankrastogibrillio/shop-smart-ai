@@ -13,14 +13,14 @@ b.	Open AI key for Chat -
     •	AZURE_OPENAI_CHAT_ENDPOINT=
     •	AZURE_OPENAI_CHAT_DEPLOYMENT_NAME=gpt-4.1
     •	AZURE_OPENAI_CHAT_API_VERSION=2024-12-01-preview
-5.	Similarly add following properties for pinecone index -
+6.	Similarly add following properties for pinecone index -
     •	PINECONE_API_KEY=
     •	PINECONE_ENVIRONMENT=us-east-1
     •	PINECONE_INDEX=
-6.	Run requirements.txt to install all required libraries
-7.	Update data-ingest/sample_Catalog.csv to change the products data.
-8.	Use following command to set up products in pinecone index
+7.	Run requirements.txt to install all required libraries
+8.	Update data-ingest/sample_Catalog.csv to change the products data.
+9.	Use following command to set up products in pinecone index
        _ python data-ingest/ingestProducts.py_
-9.	Run following command to  refresh the category cache (currenly stored in a file @ /backend/cache/categories.json)
+10.	Run following command to  refresh the category cache (currenly stored in a file @ /backend/cache/categories.json)
        _ python routes/category_cache.py_
-10.	Use _python app.py_ to run the app
+11.	Use _python app.py_ to run the app
