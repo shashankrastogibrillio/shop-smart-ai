@@ -19,8 +19,8 @@ b.	Open AI key for Chat - <br>
     •	PINECONE_INDEX= <br>
 7.	Run requirements.txt to install all required libraries
 8.	Update data-ingest/sample_Catalog.csv to change the products data.
-9.	Use following command to set up products in pinecone index
+9.	Use following command to set up products in pinecone index  <br>
        _ python data-ingest/ingestProducts.py_
-10.	Run following command to  refresh the category cache (currenly stored in a file @ /backend/cache/categories.json)
+10.	Run following command to  refresh the category cache (currenly stored in a file @ /backend/cache/categories.json)  <br>
        _ python routes/category_cache.py_
 11.	Use _python app.py_ to run the app
